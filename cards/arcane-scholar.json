@@ -1,0 +1,9 @@
+{
+  "id": "arcane-scholar",
+  "name": "นักปราชญ์ผู้รอบรู้",
+  "rarity": "Legendary",
+  "image": "Gemini_Generated_Image_6uqo5p6uqo5p6uqo.png",
+  "type": "Support Mage / Sage",
+  "stats": ["INT: 95", "WIS: 90", "SPD: 70"],
+  "description": "ผู้ถือครองคทาเวทและตำราโบราณ มีความสามารถในการวิเคราะห์สถานการณ์ ไขปริศนา และสนับสนุนเพื่อนร่วมทีมด้วยเวทมนตร์แห่งปัญญา"
+}
