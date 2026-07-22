@@ -1,0 +1,9 @@
+{
+  "slug": "card-slug-here",
+  "name": "ชื่อการ์ด",
+  "rarity": "Common",
+  "type": "ประเภท เช่น Mage / Guardian / Elementalist",
+  "stats": ["ATK 0", "DEF 0", "MANA 0"],
+  "image": "assets/card-slug-here.jpg",
+  "description": "คำอธิบายการ์ดใบนี้"
+}
