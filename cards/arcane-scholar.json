@@ -1,0 +1,9 @@
+{
+  "slug": "arcane-scholar",
+  "name": "Arcane Scholar",
+  "rarity": "Legendary",
+  "type": "Mage · Grimoire Keeper",
+  "stats": ["ATK 3", "DEF 6", "MANA 5"],
+  "image": "assets/arcane-scholar.jpg",
+  "description": "นักปราชญ์เวทมนตร์ผู้เชี่ยวชาญคาถาโบราณ ถือคทาที่สลักอักขระเรืองแสง สามารถอ่านม้วนคัมภีร์ที่ลอยอยู่รอบตัวได้พร้อมกันหลายม้วน เพิ่มพลังโจมตีเวทให้การ์ดใบอื่นในมือ 1 ใบเมื่อถูกเรียกใช้งาน"
+}
