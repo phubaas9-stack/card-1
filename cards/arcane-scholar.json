@@ -1,9 +1,9 @@
 {
-  "slug": "arcane-scholar",
-  "name": "Arcane Scholar",
+  "id": "arcane-scholar",
+  "name": "นักปราชญ์ผู้รอบรู้",
   "rarity": "Legendary",
-  "type": "Mage · Grimoire Keeper",
-  "stats": ["ATK 3", "DEF 6", "MANA 5"],
-  "image": "assets/arcane-scholar.jpg",
-  "description": "นักปราชญ์เวทมนตร์ผู้เชี่ยวชาญคาถาโบราณ ถือคทาที่สลักอักขระเรืองแสง สามารถอ่านม้วนคัมภีร์ที่ลอยอยู่รอบตัวได้พร้อมกันหลายม้วน เพิ่มพลังโจมตีเวทให้การ์ดใบอื่นในมือ 1 ใบเมื่อถูกเรียกใช้งาน"
+  "image": "Gemini_Generated_Image_6uqo5p6uqo5p6uqo.png",
+  "type": "Support Mage / Sage",
+  "stats": ["INT: 95", "WIS: 90", "SPD: 70"],
+  "description": "ผู้ถือครองคทาเวทและตำราโบราณ มีความสามารถในการวิเคราะห์สถานการณ์ ไขปริศนา และสนับสนุนเพื่อนร่วมทีมด้วยเวทมนตร์แห่งปัญญา"
 }
